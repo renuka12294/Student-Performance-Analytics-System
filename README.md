@@ -121,8 +121,15 @@ The Student Performance Analytics System demonstrates how Python, Pandas, NumPy,
 ### OUTPUTS
 
 <img width="954" height="451" alt="image" src="https://github.com/user-attachments/assets/cf48e205-f558-4e59-a12d-b348cba510d1" />
-<img width="937" height="434" alt="image" src="https://github.com/user-attachments/assets/2bacf961-05dd-4236-a05f-82e78ec358ce" />
+
+<img width="934" height="438" alt="image" src="https://github.com/user-attachments/assets/bb3f6ac7-da8a-45df-8b73-e0fa03ca7cc3" />
+
+<img width="950" height="440" alt="image" src="https://github.com/user-attachments/assets/2a2a0c19-2c1c-4b51-903e-cd204fe9c137" />
+
+<img width="951" height="431" alt="image" src="https://github.com/user-attachments/assets/8fe36de0-08af-4974-a754-c519db5bf28d" />
+
 <img width="940" height="427" alt="image" src="https://github.com/user-attachments/assets/8bd6b888-9ada-472e-8381-260996516404" />
+
 <img width="950" height="444" alt="image" src="https://github.com/user-attachments/assets/35b119a9-6428-466e-84df-96852a530bbf" />
 
 
