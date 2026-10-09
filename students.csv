@@ -1,0 +1,21 @@
+Student_ID,Name,Gender,Department,Maths,Science,English,Computer,Attendance
+S001,Ananya,Female,Computer Science,92,88,91,85,96
+S002,Rahul,Male,Information Science,78,82,74,80,88
+S003,Sneha,Female,Electronics,65,72,69,75,84
+S004,Kiran,Male,Computer Science,55,61,58,64,72
+S005,Pooja,Female,Information Science,89,94,90,92,98
+S006,Arjun,Male,Mechanical,42,48,51,45,68
+S007,Divya,Female,Computer Science,76,79,83,81,91
+S008,Manoj,Male,Electronics,33,46,40,52,60
+S009,Aishwarya,Female,Information Science,95,91,96,94,99
+S010,Vikram,Male,Mechanical,61,57,64,59,77
+S011,Megha,Female,Computer Science,84,86,80,88,93
+S012,Rohit,Male,Information Science,49,53,47,56,70
+S013,Nandini,Female,Electronics,73,77,71,79,87
+S014,Sanjay,Male,Computer Science,28,39,35,42,55
+S015,Keerthi,Female,Mechanical,68,66,72,70,82
+S016,Pranav,Male,Information Science,81,75,79,83,90
+S017,Lakshmi,Female,Computer Science,58,62,60,57,74
+S018,Aditya,Male,Electronics,91,87,89,93,95
+S019,Sahana,Female,Information Science,44,51,48,46,65
+S020,Harish,Male,Mechanical,70,74,68,72,86
